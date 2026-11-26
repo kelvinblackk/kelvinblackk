@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Kelvin Jordan 👋
 
-<!--
-**kelvinblackk/kelvinblackk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNINTER) | **Back-end Python, Fullstack Web & Sustentação de Sistemas**
+🛠️ **+14 anos em Infraestrutura de TI, Redes TCP/IP e Linux** + sistemas e automações em produção pela **K&J Negócios (Boa Vista – RR)**
 
-Here are some ideas to get you started:
+### 🚀 Stack Principal
+- **Back-end & Dados:** Python, FastAPI, PostgreSQL, Supabase, SQL, APIs REST, Pytest
+- **Front-end & Web:** TypeScript, JavaScript, Next.js, React, Tailwind CSS, HTML/CSS
+- **Infra, IA & Segurança:** Linux, Redes/VLANs, Docker, Azure AI (AI-900), LLMs locais (Ollama), Hackers do Bem (144h)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos & Portfólio
+- 🌐 **Portfólio Completo:** [kelvinblackk.github.io](https://kelvinblackk.github.io/)
+- 📦 **Juliane ERP** *(produção / código privado de cliente)* — Gestão de estoque, vendas, fluxo de caixa e auditoria por usuário (`Next.js + TypeScript + Supabase/PostgreSQL`).
+- 🤖 **Robô WhatsApp & Gerador de Sites** — API em `Python + FastAPI + WhatsApp Cloud API` com simulador ao vivo no portfólio.
+- 🛠️ **IT Asset & Ticket API** *(em desenvolvimento público)* — API aberta em `FastAPI + PostgreSQL + Pytest`.
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/kelvinjordantec/) • [Portfólio](https://kelvinblackk.github.io/) • kelvin_g10@outlook.com
